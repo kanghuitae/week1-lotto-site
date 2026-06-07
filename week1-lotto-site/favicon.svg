@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Lucky Six">
+  <rect width="128" height="128" rx="22" fill="#f7f8fb"/>
+  <circle cx="64" cy="64" r="44" fill="#1f8a70"/>
+  <circle cx="49" cy="48" r="15" fill="#f1b82d"/>
+  <circle cx="79" cy="48" r="15" fill="#4776d0"/>
+  <circle cx="49" cy="80" r="15" fill="#e66b5b"/>
+  <circle cx="79" cy="80" r="15" fill="#ffffff"/>
+  <text x="79" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#18212f">6</text>
+</svg>
